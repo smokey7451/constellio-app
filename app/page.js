@@ -15,12 +15,14 @@ export default function Page() {
         letterSpacing: '0.8rem', 
         fontSize: '4rem', 
         fontWeight: 'bold',
-        margin: 0 
+        margin: 0,
+        textAlign: 'center'
       }}>CONSTELLIO</h1>
       <p style={{ 
         color: '#888', 
         marginTop: '10px',
-        letterSpacing: '0.2rem' 
+        letterSpacing: '0.2rem',
+        textAlign: 'center'
       }}>ENTERPRISE INFORMATION MANAGEMENT</p>
     </div>
   )
